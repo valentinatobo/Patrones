@@ -8,7 +8,7 @@
 
 ![Tipos](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/tipos.PNG)
 
-![Abstrac](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/abstracuml.PNG)
+![Abstrac](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/abstrac.PNG)
 
 ![umlabstrac](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/abstracuml.PNG)
 
