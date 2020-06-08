@@ -8,13 +8,13 @@
 
 ![Tipos](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/tipos.PNG)
 
-![Abstrac](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/abstrac.PNG)
+![Abstrac](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/abstracuml.PNG)
 
 ![umlabstrac](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/abstracuml.PNG)
 
 ![implementacionabstrac](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/impleastrac.PNG)
 
-![Usoabstrac]()
+![Usoabstrac](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/usoabstrac.PNG)
 
 ![consecuenciasabstrac](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/consecuienciasabs.PNG)
 
@@ -29,8 +29,6 @@
 ![UsoSingleton](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/cuandoabstrac.PNG)
 
 ![consecuenciasSingleton](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/consesingl.PNG)
-
-![aplicacionSingleton]()
 
 ![Builder](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/builder.PNG)
 
