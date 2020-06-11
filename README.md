@@ -66,3 +66,17 @@
 ![consecuenciasPrototype](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/prototypecodigo.PNG)
 
 ![aplicacionPrototype](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/prototypeconse.PNG)
+
+![Estructurales]()
+
+![adapter](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/prototype.PNG)
+
+![umladapter](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/prototypeuml.PNG)
+
+![implementacionadapter](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/prototypeimple.PNG)
+
+![Usoadapter](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/prototypeuso.PNG)
+
+![consecuenciasadapter](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/prototypecodigo.PNG)
+
+![aplicacionadapter](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/prototypeconse.PNG)
