@@ -67,7 +67,7 @@
 
 ![aplicacionPrototype](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/prototypeconse.PNG)
 
-![Estructurales]()
+![Estructurales](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/Estructurales.PNG)
 
 ![adapter](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/adapter.PNG)
 
