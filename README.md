@@ -117,50 +117,38 @@
 
 ![aplicacionDecorator](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/decoratorapli.PNG)
 
-![Proxy]()
+![Proxy](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/proxy.PNG)
 
-![umlProxy]()
+![umlProxy](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/proxyuml.PNG)
 
-![implementacionProxy]()
+![implementacionProxy](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/proxyimple.PNG)
 
-![UsoProxy]()
+![UsoProxy](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/proxyuso.PNG)
 
-![consecuenciasProxy]()
+![consecuenciasProxy](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/proxyconsecuencias.PNG)
 
-![aplicacionProxy]()
+![aplicacionProxy](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/proxyuaplicacion.PNG)
 
-![Proxy]()
+![Facade](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/facade.PNG)
 
-![umlProxy]()
+![umlFacade](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/facadeuml.PNG)
 
-![implementacionProxy]()
+![implementacionFacade](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/facadeimple.PNG)
 
-![UsoProxy]()
+![UsoFacade](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/facadeuso.PNG)
 
-![consecuenciasProxy]()
+![consecuenciasFacade](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/facadeconsecuencias.PNG)
 
-![aplicacionProxy]()
+![aplicacionFacade](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/facadeapli.PNG)
 
-![Facade]()
+![Fly](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/fly.PNG)
 
-![umlFacade]()
+![umlFly](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/flyuml.PNG)
 
-![implementacionFacade]()
+![implementacionFly](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/flyimple.PNG)
 
-![UsoFacade]()
+![UsoFly](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/flyuso.PNG)
 
-![consecuenciasFacade]()
+![consecuenciasFly](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/flyconsecuencias.PNG)
 
-![aplicacionFacade]()
-
-![Fly]()
-
-![umlFly]()
-
-![implementacionFly]()
-
-![UsoFly]()
-
-![consecuenciasFly]()
-
-![aplicacionFly]()
+![aplicacionFly](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/flyapli.PNG)
