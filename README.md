@@ -10,37 +10,37 @@
 
 ![Creacionales](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/Creacionales.PNG)
 
-* [Abstrac Factory]()
+* [Abstrac Factory](https://github.com/valentinatobo/Patrones/tree/master/Creacionales/Abstrac_Factory)
 
-* [Builder]()
+* [Builder](https://github.com/valentinatobo/Patrones/tree/master/Creacionales/Builder)
 
-* [Factory Method]()
+* [Factory Method](https://github.com/valentinatobo/Patrones/tree/master/Creacionales/Factory%20Method)
 
-* [Prototype]()
+* [Prototype](https://github.com/valentinatobo/Patrones/tree/master/Creacionales/Prototype)
 
-* [Singlleton]()
+* [Singleton](https://github.com/valentinatobo/Patrones/tree/master/Creacionales/Singleton)
 
 ![Estructurales](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/Estructurales.PNG)
 
-* [Adapter]()
+* [Adapter](https://github.com/valentinatobo/Patrones/tree/master/Estructurales/Adapter)
 
-* [Bridge]()
+* [Bridge](https://github.com/valentinatobo/Patrones/tree/master/Estructurales/Bridge)
 
-* [Composite]()
+* [Composite](https://github.com/valentinatobo/Patrones/tree/master/Estructurales/Composite)
 
-* [Decorator]()
+* [Decorator](https://github.com/valentinatobo/Patrones/tree/master/Estructurales/Decorator)
 
-* [Facade]()
+* [Facade](https://github.com/valentinatobo/Patrones/tree/master/Estructurales/Fachada)
 
-* [Flyweight]()
+* [Flyweight](https://github.com/valentinatobo/Patrones/tree/master/Estructurales/Flyweight)
 
-* [Proxy]()
+* [Proxy](https://github.com/valentinatobo/Patrones/tree/master/Estructurales/Proxy)
 
 ![comportamiento](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/comportamiento.PNG)
 
-* [Chain Of Responsability]()
+* [Chain Of Responsability](https://github.com/valentinatobo/Patrones/tree/master/Comportamiento/Chain)
 
-* [Command]()
+* [Command](https://github.com/valentinatobo/Patrones/tree/master/Comportamiento/Command)
 
-* [Interpreter]()
+* [Interpreter](https://github.com/valentinatobo/Patrones/tree/master/Comportamiento/Interpreter)
 
