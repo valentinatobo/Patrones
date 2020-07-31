@@ -8,185 +8,39 @@
 
 ![Tipos](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/tipos.PNG)
 
-![Abstrac](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/abstrac.PNG)
+![Creacionales](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/Creacionales.PNG)
 
-![umlabstrac](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/abstracuml.PNG)
+* [Abstrac Factory]()
 
-![implementacionabstrac](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/impleastrac.PNG)
+* [Builder]()
 
-![Usoabstrac](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/usoabstrac.PNG)
+* [Factory Method]()
 
-![consecuenciasabstrac](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/consecuienciasabs.PNG)
+* [Prototype]()
 
-![aplicacionabstrac](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/aplicaabs.PNG)
-
-![Singleton](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/singleton.PNG)
-
-![umlSingleton](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/singluml.PNG)
-
-![implementacionSingleton](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/implesingl.PNG)
-
-![UsoSingleton](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/cuandoabstrac.PNG)
-
-![consecuenciasSingleton](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/consesingl.PNG)
-
-![Builder](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/builder.PNG)
-
-![umlBuilder](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/umlbuilder.PNG)
-
-![implementacionBuilder](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/implebuil.PNG)
-
-![UsoBuilder](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/usobuil.PNG)
-
-![consecuenciasBuilder](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/consecuenciasbuil.PNG)
-
-![aplicacionBuilder](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/aplibuil.PNG)
-
-
-![Method](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/method.PNG)
-
-![umlMethod](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/umlmethod.PNG)
-
-![implementacionMethod](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/implemethod.PNG)
-
-![UsoMethod](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/usomethod.PNG)
-
-![consecuenciasMethod](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/consecuenciasmethod.PNG)
-
-![aplicacionMethod](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/aplimethod.PNG)
-
-![Prototype](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/prototype.PNG)
-
-![umlPrototype](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/prototypeuml.PNG)
-
-![implementacionPrototype](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/prototypeimple.PNG)
-
-![UsoPrototipe](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/prototypeuso.PNG)
-
-![consecuenciasPrototype](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/prototypecodigo.PNG)
-
-![aplicacionPrototype](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/prototypeconse.PNG)
+* [Singlleton]()
 
 ![Estructurales](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/Estructurales.PNG)
 
-![adapter](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/adapter.PNG)
+* [Adapter]()
 
-![umladapter](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/adapteruml.PNG)
+* [Bridge]()
 
-![implementacionadapter](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/adapterimple.PNG)
+* [Composite]()
 
-![Usoadapter](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/adapteruso.PNG)
+* [Decorator]()
 
-![consecuenciasadapter](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/adapterconse.PNG)
+* [Facade]()
 
-![aplicacionadapter](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/adapterapli.PNG)
+* [Flyweight]()
 
-![bridge](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/bridge.PNG)
-
-![umlbridge](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/bridgeuml.PNG)
-
-![implementacionbridge](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/bridgesolucion.PNG)
-
-![Usobridge](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/bridgeuso.PNG)
-
-![consecuenciasbridge](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/bridgeconsecuencias.PNG)
-
-![aplicacionbridge](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/bridgeapli.PNG)
-
-![composite](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/composite.PNG)
-
-![umlcomposite](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/compositeiml.PNG)
-
-![implementacioncomposite](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/compositeimple.PNG)
-
-![Usocomposite](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/compositeuso.PNG)
-
-![consecuencicomposite](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/compositeconse.PNG)
-
-![aplicacioncomposite](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/compositeapli.PNG)
-
-![Decorator](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/decorator.PNG)
-
-![umlDecorator](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/decoratoruml.PNG)
-
-![implementacionDecorator](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/decoratorimple.PNG)
-
-![UsoDecorator](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/decoratoruso.PNG)
-
-![consecuenciasDecorator](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/decoratorconse.PNG)
-
-![aplicacionDecorator](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/decoratorapli.PNG)
-
-![Proxy](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/proxy.PNG)
-
-![umlProxy](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/proxyuml.PNG)
-
-![implementacionProxy](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/proxyimple.PNG)
-
-![UsoProxy](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/proxyuso.PNG)
-
-![consecuenciasProxy](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/proxyconsecuencias.PNG)
-
-![aplicacionProxy](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/proxyuaplicacion.PNG)
-
-![Facade](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/facade.PNG)
-
-![umlFacade](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/facadeuml.PNG)
-
-![implementacionFacade](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/facadeimple.PNG)
-
-![UsoFacade](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/facadeuso.PNG)
-
-![consecuenciasFacade](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/facadeconsecuencias.PNG)
-
-![aplicacionFacade](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/facadeapli.PNG)
-
-![Fly](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/fly.PNG)
-
-![umlFly](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/flyuml.PNG)
-
-![implementacionFly](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/flyimple.PNG)
-
-![UsoFly](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/flyuso.PNG)
-
-![consecuenciasFly](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/flyconsecuencias.PNG)
-
-![aplicacionFly](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/flyapli.PNG)
+* [Proxy]()
 
 ![comportamiento](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/comportamiento.PNG)
 
-![Change](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/change.PNG)
+* [Chain Of Responsability]()
 
-![umlChange](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/changeuml.PNG)
+* [Command]()
 
-![implementacionChange](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/changeimple.PNG)
+* [Interpreter]()
 
-![UsoChange](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/changeuso.PNG)
-
-![consecuenciasChange](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/changeconsecuencias.PNG)
-
-![aplicacionChange](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/changeapli.PNG)
-
-![Interpreter](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/interpreter.PNG)
-
-![umlInterpreter](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/interpreteruml.PNG)
-
-![implementacionInterpreter](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/interpreterimple.PNG)
-
-![UsoInterpreter](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/interpreteruso.PNG)
-
-![consecuenciasInterpreter](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/interpreterconse.PNG)
-
-![aplicacionInterpreter](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/interpreterapli.PNG)
-
-![Command](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/command.PNG)
-
-![umlCommand](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/commanduml.PNG)
-
-![implementacionCommand](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/comandimple.PNG)
-
-![UsoCommand](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/commanduso.PNG)
-
-![consecuenciasCommand](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/commandconse.PNG)
-
-![aplicacionCommand](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/commandapli.PNG)
