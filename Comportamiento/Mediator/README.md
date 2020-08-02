@@ -1,11 +1,11 @@
-![Mediator]()
+![Mediator](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/comportamiento/mediator.PNG)
 
-![umlMediator]()
+![umlMediator](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/comportamiento/mediatoruml.PNG)
 
-![implementacionMediator]()
+![implementacionMediator](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/comportamiento/mediatorimple.PNG)
 
-![UsoMediator]()
+![UsoMediator](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/comportamiento/mediatoruso.PNG)
 
-![consecuenciasMediator]()
+![consecuenciasMediator](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/comportamiento/mediatorconsecuencias.PNG)
 
-![aplicacionMediator]()
+![aplicacionMediator](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/comportamiento/mediatoraplica.PNG)

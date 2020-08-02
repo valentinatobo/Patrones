@@ -1,11 +1,11 @@
-![Iterator]()
+![Iterator](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/comportamiento/iterator.PNG)
 
-![umlIterator]()
+![umlIterator](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/comportamiento/iteratoruml.PNG)
 
-![implementacionIterator]()
+![implementacionIterator](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/comportamiento/iteratorimple.PNG)
 
-![UsoIterator]()
+![UsoIterator](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/comportamiento/iteratoruso.PNG)
 
-![consecuenciasIterator]()
+![consecuenciasIterator](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/comportamiento/iteratorconsecuencias.PNG)
 
-![aplicacionIterator]()
+![aplicacionIterator](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/comportamiento/iteratorapli.PNG)

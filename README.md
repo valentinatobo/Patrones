@@ -44,9 +44,9 @@
 
 * [Interpreter](https://github.com/valentinatobo/Patrones/tree/master/Comportamiento/Interpreter)
 
-* [Interator]()
+* [Interator](https://github.com/valentinatobo/Patrones/tree/master/Comportamiento/Iterator)
 
-* [Memento]()
+* [Memento](https://github.com/valentinatobo/Patrones/tree/master/Comportamiento/Memento)
 
-* [Mediator]()
+* [Mediator](https://github.com/valentinatobo/Patrones/tree/master/Comportamiento/Mediator)
 

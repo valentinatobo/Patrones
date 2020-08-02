@@ -1,11 +1,11 @@
-![Memento]()
+![Memento](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/comportamiento/memento.PNG)
 
-![umlMemento]()
+![umlMemento](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/comportamiento/mementouml.PNG)
 
-![implementacionMemento]()
+![implementacionMemento](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/comportamiento/mementoimplementacion.PNG)
 
-![UsoMemento]()
+![UsoMemento](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/comportamiento/mementouso.PNG)
 
-![consecuenciasMemento]()
+![consecuenciasMemento](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/comportamiento/mementoconsecuencias.PNG)
 
-![aplicacionMemento]()
+![aplicacionMemento](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/comportamiento/mementoapli.PNG)
