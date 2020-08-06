@@ -50,3 +50,13 @@
 
 * [Mediator](https://github.com/valentinatobo/Patrones/tree/master/Comportamiento/Mediator)
 
+* [Observer](https://github.com/valentinatobo/Patrones/tree/master/Comportamiento/Observer)
+
+* [State](https://github.com/valentinatobo/Patrones/tree/master/Comportamiento/State)
+
+* [Srategy](https://github.com/valentinatobo/Patrones/tree/master/Comportamiento/Strategy)
+
+* [Template Method](https://github.com/valentinatobo/Patrones/tree/master/Comportamiento/Template%20Method)
+
+* [Visitor](https://github.com/valentinatobo/Patrones/tree/master/Comportamiento/Visitor)
+

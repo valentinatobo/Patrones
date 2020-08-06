@@ -1,11 +1,11 @@
-![Observer]()
+![Observer](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/comportamiento/observer.PNG)
 
-![umlObserver]()
+![umlObserver](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/comportamiento/observeruml.PNG)
 
-![implementacionObserver]()
+![implementacionObserver](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/comportamiento/observeimple.PNG)
 
-![UsoObserver]()
+![UsoObserver](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/comportamiento/observeruso.PNG)
 
-![consecuenciasObserver]()
+![consecuenciasObserver](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/comportamiento/observerconse.PNG)
 
-![aplicacionObserver]()
+![aplicacionObserver](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/comportamiento/observerapli.PNG)

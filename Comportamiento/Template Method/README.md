@@ -1,11 +1,11 @@
-![Template]()
+![Template](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/comportamiento/template.PNG)
 
-![umlTemplate]()
+![umlTemplate](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/comportamiento/templateuml.PNG)
 
-![implementacionTemplate]()
+![implementacionTemplate](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/comportamiento/templateimple.PNG)
 
-![UsoTemplate]()
+![UsoTemplate](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/comportamiento/templateuso.PNG)
 
-![consecuenciasTemplate]()
+![consecuenciasTemplate](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/comportamiento/templateconse.PNG)
 
-![aplicacionTemplate]()
+![aplicacionTemplate](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/comportamiento/templateapli.PNG)

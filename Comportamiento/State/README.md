@@ -1,11 +1,11 @@
-![State]()
+![State](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/comportamiento/state.PNG)
 
-![umlState]()
+![umlState](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/comportamiento/stateuml.PNG)
 
-![implementacionState]()
+![implementacionState](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/comportamiento/stateimple.PNG)
 
-![UsoState]()
+![UsoState](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/comportamiento/stateuso.PNG)
 
-![consecuenciasState]()
+![consecuenciasState](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/comportamiento/stateconsecuencias.PNG)
 
-![aplicacionState]()
+![aplicacionState](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/comportamiento/stateapli.PNG)

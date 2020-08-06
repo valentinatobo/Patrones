@@ -1,11 +1,11 @@
-![Strategy]()
+![Strategy](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/comportamiento/strategy.PNG)
 
-![umlStrategy]()
+![umlStrategy](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/comportamiento/strategyuml.PNG)
 
-![implementacionStrategy]()
+![implementacionStrategy](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/comportamiento/strategyimple.PNG)
 
-![UsoStrategy]()
+![UsoStrategy](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/comportamiento/strategyuso.PNG)
 
-![consecuenciasStrategy]()
+![consecuenciasStrategy](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/comportamiento/strategyconsecuencias.PNG)
 
-![aplicacionStrategy]()
+![aplicacionStrategy](https://github.com/valentinatobo/Patrones/blob/master/Imagenes/comportamiento/strategyapli.PNG)
